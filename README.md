@@ -2,4 +2,4 @@
 
 
 ### Preview
-![Calendar Demo]([screenshot.PNG](https://i.ibb.co/KNcKtSP/calendar-demo-android-java.gif))
+![Calendar Demo](https://i.ibb.co/KNcKtSP/calendar-demo-android-java.gif)
